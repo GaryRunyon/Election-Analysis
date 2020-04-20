@@ -11,6 +11,10 @@ An elections board tasked us with ascertaining the following information with re
 5) The votes cast in each of the three participating counties. 
 6) The county with the highest voter-turnout.
 
+Resources
+1) Data Source: election_results.csv
+2) Software: Python 3.8.2, Visual Studio Code 1.44.0
+
 The analysis showed: 
 1) 369,111 total votes
 2) Anthony Doane had 3.1% (11,606)
