@@ -21,3 +21,7 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+
+{'Jefferson': 38855, 10.5%}
+ {'Denver': 306055, 82.8%}
+ {'Arapahoe': 24801, 6.7%}
