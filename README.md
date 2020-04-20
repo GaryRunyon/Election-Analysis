@@ -23,3 +23,7 @@ The analysis showed:
 5)Jefferson Co. had 38,855 votes (10.5%)
 6)Denver Co. had 306,055 (82.8%)
 7)Arapahoe Co. had 24,801 (6.7%)
+
+
+
+
